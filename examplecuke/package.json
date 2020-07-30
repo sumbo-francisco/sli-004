@@ -1,0 +1,16 @@
+{
+  "name": "hellocucumber",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/cucumber-js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "cucumber": "^6.0.5"
+  }
+}
